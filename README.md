@@ -1,2 +1,2 @@
 # CS50
-CS50 progress
+This is my CS50 course progress.
